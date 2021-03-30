@@ -8,7 +8,7 @@ Neste tutorial, vamos demonstrar como converter um Stream em um array e vice-ver
 # 2. Convertendo um Stream em um Array
 
 ### 2.1. Referência do Método
-A melhor maneira de con`verter um Stream em uma matriz é usar o método toArray () do Stream:
+A melhor maneira de converter um Stream em uma matriz é usar o método toArray() do Stream:
 
 ``` 
 public String[] usingMethodReference(Stream<String> stringStream) {
